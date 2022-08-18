@@ -1,4 +1,4 @@
-### ☮ Hi, I'm soulofmischief.
+### Hi, I'm soulofmischief.
 
 I am a...
 
