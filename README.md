@@ -14,6 +14,6 @@ I enjoy...
 
 I am...
 
-💭 Presently consulting and developing yet-another-search-engine  
-🔨 Available for cool projects  
+💭 Researching decentralized architecture & AI content generation for online social experiences  
+🔨 Available for consulting & cool projects  
 💬 Always down to chat: hello@badsoft.co
