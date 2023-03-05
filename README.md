@@ -1,7 +1,7 @@
-Email:       github@cosmo.lol
-Identity:    id.cos.lol
-Fingerprint: 8BB7 22B5 708B 9534 EC79  20D3 6B29 515A 9ABC 8B77
+github@cosmo.lol  
+[id.cos.lol](https://id.cos.lol)
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYYQhxxYJKwYBBAHaRw8BAQdAwZ+ui7DEVdGe8o1xb18agQbf0TVL6hOIa5fe
@@ -21,8 +21,9 @@ EoPoZQhhCE+AqMA0gAwJEP4FKBnv6Mxe4JIA/RU8+811SnvxJh6vCTCAoWdVR9EF
 4+e34odySldJPAEbAQDFgJzpGWqVLBBEvfQ8nm6cHr3dYh8Mno97nscGmi+7Dg==
 =m3YR
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
-💻 End-to-end web engineering
+💻 End-to-end web engineering  
 👾 Game development  
 💿 Audio production  
 🌱 Digital gardening  
